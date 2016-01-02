@@ -1,0 +1,8 @@
+name: vsrr
+account: serendio
+server: shinyapps.io
+bundleId: 341658
+url: https://serendio.shinyapps.io/vsrr
+when: 1451659559.24523
+asMultiple: FALSE
+asStatic: FALSE
